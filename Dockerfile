@@ -1,4 +1,4 @@
-FROM brunoric/hhvm:deb
+FROM brunoric/hhvm:deb-hhvm
 MAINTAINER gabrielrcouto <gabrielrcouto@gmail.com>
 
 # Installing packages
